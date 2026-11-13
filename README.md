@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Iyad
 
-<!--
-**iyadnou/iyadnou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI graduate with First-Class Honours, interested in machine learning, natural language processing, and practical software projects.
 
-Here are some ideas to get you started:
+## Python & data science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Netflix EDA](https://github.com/iyadnou/netflix-eda) — exploratory analysis of a Netflix dataset using Python, Pandas, Matplotlib, and Seaborn.
+
+## Web development
+
+- [Portfolio](https://github.com/iyadnou/portfolio) — responsive personal portfolio website built with HTML, CSS, and JavaScript.
+
+## Robotics & computer vision
+
+- [CC_CK](https://github.com/iyadnou/CC_CK) — ROS 2 project with a navigation and YOLO launch workflow, plus a visual odometry node.
+
+## Skills
+
+Python · C++ · Java · SQL · Machine learning · NLP · Data science · Docker · Git
+
+---
+
+[GitHub](https://github.com/iyadnou)
