@@ -19,8 +19,17 @@ AI graduate with First-Class Honours in Artificial Intelligence, interested in m
 - [CC_CK](https://github.com/iyadnou/CC_CK) — ROS 2 project with navigation and YOLO launch workflow, plus a visual odometry node.
 
 ## Skills
-
-Python · C++ · Java · SQL · Machine learning · NLP · Data science · Docker · Git
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=flat)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=flat)
+![Data Science](https://img.shields.io/badge/Data_Science-2E8B57?style=flat)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-008B8B?style=flat)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
