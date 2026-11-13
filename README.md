@@ -1,4 +1,4 @@
-# Hi, I'm Iyad
+# Hi, I'm Mohamed Ayad Eddine Nouadi
 
 AI graduate with First-Class Honours, interested in machine learning, natural language processing, and practical software projects.
 
