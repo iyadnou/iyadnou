@@ -4,9 +4,12 @@ AI graduate with First-Class Honours in Artificial Intelligence, interested in m
 
 ## Projects
 
-### AI, NLP & data science
+### AI, NLP
 
 - [Automatic Topic Extraction from UK Technology News](https://github.com/iyadnou/sbert-demo) — a BERTopic-based news topic extraction demo with a Flask backend and frontend.
+
+### Data Analysis
+
 - [Netflix EDA](https://github.com/iyadnou/netflix-eda) — exploratory analysis of a Netflix dataset using Python, Pandas, Matplotlib, and Seaborn.
 
 ### Web development
